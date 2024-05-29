@@ -1,10 +1,10 @@
-# Introduce My self ;) (2024/05/30)
+# Introduce My self ;) (2022/11/24)
 
-안녕하세요! mint3100, 민트입니다! 고등학교 3학년이고,
+안녕하세요! mint3100, 민트입니다! 고등학생 1학년이고,
 저는 Python, PHP로 Backend 작업을 주로 하고 있어요!!
 
 # Language?
-Python (Main!), PHP, C++, Swift, Node.JS, JS, Kotlin
+Python (Main!), PHP, C++, Swift, Node.JS, JS
 ++
 R Studio!
 
@@ -13,9 +13,8 @@ R Studio!
 
 [Blog](https://blog.mintserver.kr)
 
-[introduce](https://hanafu.cat)
 
 
 
 ------------
-In [MintServer](https://mintserver.kr/) ;)
+2022 | Made with ❤ in [MintServer](https://mintserver.kr/) ;)
